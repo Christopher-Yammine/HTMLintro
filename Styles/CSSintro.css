@@ -1,0 +1,16 @@
+.square {
+  width: 100px;
+  height: 100px;
+}
+
+.red-square {
+  background-color: red;
+}
+
+.blue-square {
+  background-color: blue;
+}
+
+.yellow-square {
+  background-color: yellow;
+}
