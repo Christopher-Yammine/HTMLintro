@@ -1,0 +1,28 @@
+.profile {
+  border: 2px solid;
+  width: 300px;
+  height: 200px;
+}
+
+.title {
+  color: rgb(0, 0, 176);
+}
+
+.decorated {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.paragraph-decoration {
+  font-size: 30px;
+  text-decoration: underline;
+  border: 1px solid;
+}
+
+.paragraph {
+  color: grey;
+}
+
+.bio-title {
+  text-decoration: underline;
+}
